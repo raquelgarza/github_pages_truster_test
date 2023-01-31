@@ -1,9 +1,9 @@
-baseurl = "https://www.example.com/"
+baseurl = "https://raquelgarza.github.io/github_pages_truster_test/"
 languageCode = "en-us"
 title = "trusTEr"
 theme = "blackburn"
-author = "Yoshiharu Yamashita"
-copyright = "&copy; 2016. All rights reserved."
+author = "Raquel Garza"
+copyright = "&copy; 2023. All rights reserved."
 canonifyurls = true
 paginate = 10
 
@@ -19,7 +19,7 @@ paginate = 10
   disqus = "Your Disqus shortname"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
-  dateFormat = "02 Jan 2006, 15:04"
+  dateFormat = "31 Jan 2023, 15:04"
 
 [menu]
   # Shown in the side menu.
